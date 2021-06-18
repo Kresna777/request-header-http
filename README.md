@@ -1,2 +1,2 @@
 # request-header-http
-Request Header http untuk mengirim request dan melihat respon dari server
+program Request Header http dari Python untuk mengirim request http dan melihat respones dari server
